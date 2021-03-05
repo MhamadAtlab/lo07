@@ -1,0 +1,60 @@
+h1 {
+    color: #000080;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    color:#FF0000;
+}
+a:visited{
+    color:#FFA500;
+}
+a:hover{
+    color: #ADFF2F;
+}
+ol{
+    color: #D2691E;
+}
+.cs{
+    color: #DC143C;
+}
+.tm{
+    color: #8A2BE2;
+}
+#nom{
+    text-decoration: underline;
+}
+ol li{
+    list-style-type: lower-greek;
+}
+.gras{
+    color: #1E90FF;
+    font-weight: bold;
+}
+#matiere{
+    color:#FA8072;
+    display:none;
+}
+li{
+    color: #6495ED;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  color: #483D8B;
+  width: 100%
+}
+.comp{
+    text-align: center;
+    width: 80%;
+}
+th,td{
+    height: 30px
+}
+.tl_col{
+    background: #F4A460;
+    color: #000000;
+}
